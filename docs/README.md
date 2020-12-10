@@ -4,24 +4,21 @@
 
 |key|value|
 |---|---|
-|氏名|川俣 涼（Kawamata Ryo）|
-|生年月日|1989/04/25|
-|Twitter|[@KawamataRyo](https://twitter.com/KawamataRyo)|
-|Qiita|[@ryo2132](https://qiita.com/ryo2132)|
-|note|[ryo_kawamata](https://note.com/ryo_kawamata)|
-|Zenn|[ryo_kawamata](https://zenn.dev/ryo_kawamata)|
-|SpeakerDeck|[kawamataryo](https://speakerdeck.com/kawamataryo)|
+|氏名|山口 壮太（Yamaguchi Sota）|
+|生年月日|1993/07/09|
+|Twitter|[@Area029S](https://twitter.com/Area029S)|
+|Qiita|[@sota_yamaguchi](https://qiita.com/sota_yamaguchi)|
+|note|[Sota Yamaguchi](https://note.com/sota_yamaguchi)|
+|SpeakerDeck|[sotayamaguchi](https://speakerdeck.com/sotayamaguchi)|
 
 ---
 
 ## 保有スキル
 
-- JavaScript / TypeScript + Vue.js でのフロントエンド開発・設計
+- JavaScript / TypeScript + React.js でのフロントエンド開発・設計
+- React Native + expo でのiOSアプリ開発・設計
 - レガシーコードからモダンなフロントエンドへのリファクタリング
-- UT を基本とした保守性と再利用性を意識したコーディング
-- Ruby on Rails でのサーバーサイド開発
-- 勉強会、社内学習のコミュニティ形成
-- アジャイル、スクラムの進行
+- Django でのサーバーサイド開発
 
 ---
 
@@ -31,138 +28,184 @@
 
 - TypeScript
 - JavaScript
-- Ruby
-- PHP（副業）
-- Kotlin
-- Java
+- Python
+- PHP
+- React Native
+- Flutter
 
 ### フレームワーク・その他
 
-- Vue.js
-- React（個人開発）
-- Gatsby.js（個人開発）
-- Hasura（個人開発）
-- Ruby on Rails
-- Spring Boot
-- Firebase（副業）
-- GraphQL
+- Next.js
+- React
+- Django
+- Laravel
+- Firebase
 
 ---
 
 ## 職務経歴詳細
 
-### 弥生株式会社（2020/07〜現在）
+### レッドインパルス株式会社（2019/10〜現在）
 
-※ 株式会社 Misoca の吸収合併による転籍。業務内容は株式会社 Misoca と変わらず。
+主に受託開発を行うSES系ベンチャー。
 
-### 株式会社Misoca（2019/04〜2020/06）
-
-クラウド請求書管理サービス Misoca の開発・運用。
+**AIによる自動対応チャットボット及び管理画面のリプレース開発**
+- **開発期間：**
+	- 2020年4月~2020年11月
 - **プロジェクト規模：**
-    - 平均 2〜4 人チームでのアジャイル開発
+    - 3 人チームでのアジャイル開発
 - **役割：**
-    - 機能検討（インセプションデッキ作成 etc）、設計、コーディング、レビュー
+    - 設計、コーディング、レビュー
 - **プロジェクト詳細：**
-    - TypeScript + Vue.js での SPA 開発
-    - Ruby on Rails でのフロント・モバイルアプリ向け API の開発
-    - フロント全コードの JavaScript から TypeScript へのリプレイス
-    - レガシーコード（jQuery）から Vue.js へのリファクタリング
-    - GraphQL, Vue Composition API を使った新機能の開発
-    - 社外・社内勉強会の企画運営
+	frontend
+    - TypeScript + Next.js での SPA 開発
+    - クライアントの認証機能用Laravelプロジェクトを組み込み
 
-### エムスリー株式会社（2018/02〜2019/03）
+	backend
+    - Djangoで作成した既存のプロジェクトにAPIの追加
+    - Django+jsで作成したチャットボットのリファクタリング
+    - クライアントの認証機能用Laravelプロジェクトを組み込み
 
-医療従事者向け総合医療情報サービス m3.com の開発・運用。
+**Kintone、MESHブロックを用いた経営コンサルのデモ用アプリの作成**
 - **プロジェクト規模：**
-    - 平均 1〜2 人チームでの開発
+    - 1人
 - **役割：**
-    - コーディング、レビュー、チームビルディング
+    - 開発、レクチャー
 - **プロジェクト詳細：**
-    - Java 独自フレームワークのレガシーシステムから Spring Boot へのリニューアル
-    - サーバーサイド Kotlin の導入、Vue.js での SPA サイト構築
-    - Storybook の導入、コンポーネントライブラリの作成
+    - KintoneのカスタムアプリでDBの作成
+    - [MESHブロック](https://meshprj.com/jp/)でデモアプリの作成
 
-### 地方消防本部（2012/04〜2017/12）
-
-消防士として消防活動、救急活動に従事する傍ら救急報告書の作成支援システムを自作・運用。
+**BtoCマッチングサービス（Webアプリ, 管理画面）の開発**
+- **開発期間：**
+	- 2020年3月~2020年8月
 - **プロジェクト規模：**
-    - 個人開発
+    - 4 人チームでのアジャイル開発
 - **役割：**
-    - 機能検討、設計、デザイン、コーディング、導入交渉
+    - コーディング、レビュー
 - **プロジェクト詳細：**
-    - Electron + Vue での入力支援システム、Excel VBA での報告書エラーチェッカーの開発
-        - 年間で 4,000 時間の業務時間削減に貢献
-        - [https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department](https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department)
+	Webアプリ
+    - TypeScript + Next.js での SPA 開発
+    - wordpress REST APIを使用し、ヘッドレスCMSとしてBlog機能の実現
 
+	管理画面
+    - TypeScript + Next.js での SPA 開発
+    - API Routeを使用し、Next.jsでAPIを作成
+
+**BtoBtoCマッチングサービス（Webアプリ, スマホアプリ, 管理画面）の開発**
+- **開発期間：**
+	- 2019年9月~2020年3月
+- **プロジェクト規模：**
+    - 6 人チームでのアジャイル開発
+- **役割：**
+    - コーディング、レビュー、スマホアプリ設計
+- **プロジェクト詳細：**
+	Webアプリ
+    - TypeScript + Next.js での SPA 開発
+
+	管理画面
+    - TypeScript + Next.js での SPA 開発
+    - API Routeを使用し、Next.jsでAPIを作成
+
+	スマホアプリ
+    - React Native + expo での 開発
+
+**遠隔保育ロボット用の通知受け取りスマホアプリの開発**
+- **開発期間：**
+	- 2019年6月~2019年7月
+- **プロジェクト規模：**
+    - 1 人
+- **役割：**
+    - 設計、コーディング
+- **プロジェクト詳細：**
+    - Flutter + firebase での 開発
+
+**食品販売業者のHPコーディング**
+- **開発期間：**
+	- 2019年4月~2019年4月
+- **プロジェクト規模：**
+    - 1 人
+- **役割：**
+    - コーディング
+- **プロジェクト詳細：**
+    - wordpressでLPのコーディング
+
+#### その他
+
+- 地元映像会社様へのITツール導入支援
+- 社内勉強会の企画運営
+- ハッカソンの企画運営
+- [会社Youtubeチャンネル](https://www.youtube.com/channel/UCdsCNxALP2nAJ_mLLlg3rFQ)の企画・撮影・編集
+
+### サーマルエンジニアリング株式会社（2017/09〜2019/09）
+
+C# による組み込み系Windowsアプリケーションの開発。
+
+**走査電子顕微鏡用クライアント（Windowsアプリ）の開発**
+- **プロジェクト規模：**
+    - 平均 3〜4 人チームでの開発
+- **役割：**
+    - コーディング
+- **プロジェクト詳細：**
+    - C# 独自フレームワークを使用してWindowsアプリの開発
+
+### サーマルエンジニアリング株式会社（2017/09〜2019/09）
+
+C# による組み込み系Windowsアプリケーションの開発。
+
+**走査電子顕微鏡用クライアント（Windowsアプリ）の開発**
+- **プロジェクト規模：**
+    - 平均 3〜4 人チームでの開発
+- **役割：**
+    - コーディング
+- **プロジェクト詳細：**
+    - C# 独自フレームワークを使用してWindowsアプリの開発
+
+### 某金属サイディングメーカー（2012/04〜2017/08）
+
+製造及び、在庫管理、出荷業務、会社のブランディングプロジェクトなどに参加した傍らで、現場の在庫管理用のシステムをエクセルで作成など業務改善を行った。
+
+- **プロジェクト規模：**
+    - 個人開発?
+- **役割：**
+    - VBAでエクセルのマクロ作成、導入交渉
+- **プロジェクト詳細：**
+    - Excel VBA での在庫日報の開発
+        - 年間で 6,000 時間の業務時間削減に貢献
+        - 社内改善提案コンテストにてA評価を頂く
 
 ---
 
 ## 業務外活動
 
-### OSS活動
-
-- **type-challenges のメンバー（日本語ローカライズを担当）**
-    - [https://github.com/type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)
-- **自作ツールの公開**
-    - [https://github.com/kawamataryo/alfred-imagemin](https://github.com/kawamataryo/alfred-imagemin)
-    - [https://github.com/kawamataryo/schema2type](https://github.com/kawamataryo/schema2type)
-- **月 2PR を目標で気になる OSS への PR 作成**
-    - Hasura Console の TypeScript 化・Issue の対応
-    - Gatsby.js の TypeScript 化・ドキュメント翻訳
-    - Vue3 のドキュメント翻訳
-
 ### 副業
 
-- **鍼灸院専門の Web デザイン事業**
-    - 担当：営業・企画・デザイン・実装
-    - 使用技術：PHP, JavaScript, Wordpress, Nuxt.js, GraphCMS
-    - 妻の仕事（鍼灸師）のホームページを作成したことでスタート。口コミ、web サイト経由で受注。契約交渉から実装・保守管理まで全てを行う
-- **ソフトウェア受託開発**
-    - 担当：実装
-    - 使用技術：JavaScript, TypeScript, Vue.js, React, Firebase
-    - 元同僚が起業した会社の受託開発業務のサポート。フロントエンドの実装を主に行う
+- **小学生向けロボット教室**
+    - 担当：講師
+    - 使用技術：Basic, Ichigojam, Python, Raspberry Pi, 他カムロボを用いた電子工作
 
-### 技術記事投稿
+### 記事投稿
 
-- **Qiita**
-    - 消防士時代から投稿を続け 2020/10 現在、143 記事、 8854LGTM
-    - [https://qiita.com/ryo2132](https://qiita.com/ryo2132)
-- **Zenn**
-    - サービススタートから投稿を開始。2020/10 現在 5 記事、 90LIKE
-    - [https://zenn.dev/ryo_kawamata](https://zenn.dev/ryo_kawamata)
 - **note**
-    - 主に月報、転職エントリーを記載。2020/10 現在 , 8 記事、 500 いいね
-    - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
+    - 主に月報を記載。
+    - https://note.com/sota_yamaguchi
 
 ### 勉強会での登壇
 
-- **Remote.vue（2020/07）**
-    - Ref vs Reactive Vue3 Composition API のリアクティブ関数の探究
-    - [https://speakerdeck.com/kawamataryo/ref-vs-reactive-vue-composition-api-deep-in](https://speakerdeck.com/kawamataryo/ref-vs-reactive-vue-composition-api-deep-in)
-- **もくテク（2019/12）**
-    - 入門 Hasura
-    - [https://speakerdeck.com/kawamataryo/ru-men-hasura](https://speakerdeck.com/kawamataryo/ru-men-hasura)
-- **もくテク（2019/10）**
-    - ここまで出来るよ Firestore セキュリティルール
-    - [https://speakerdeck.com/kawamataryo/kokomadechu-lai-ruyo-firestore-sekiyuriteiruru](https://speakerdeck.com/kawamataryo/kokomadechu-lai-ruyo-firestore-sekiyuriteiruru)
-- **他登壇資料**
-    - [https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
+- **レッドインパルス社内・電通大学生向け勉強会（2019/06）**
+    - 【TODOアプリ作成】Flutter・Firebaseでゼロからアプリをつくる。
+    - https://ueqareer.net/3056
+- **その他登壇資料** 
+    - https://speakerdeck.com/sotayamaguchi
 
 ### 勉強会の開催
 
-- **社内・社外勉強会の企画・運営**
-    - もくテク powerd by Misoca
-    - フロントエンド輪読回（Vue Composition API ドキュメント , JavaScript Promise の本輪読回、 Jest 公式ドキュメント、 TypeScript 公式ドキュメント）
-    - Go ではじめるインタプリンタ輪読回
-- **茨城県水戸市にて勉強会を企画・運営**
-    - 水戸エンジニア勉強会（開催回数 17 回、 メンバー52 人）
-    - [https://mito-web-engineer.connpass.com/](https://mito-web-engineer.connpass.com/)
+- **ハッカソンの企画・運営**
+    - [Firebaseハッカソン with レッドインパルス](https://ueqareer.connpass.com/event/189350/)
 
 ---
 
 ## 意欲・興味
-- 少人数チームで小さく早くリリースを行い、フィードバックを受けながら改善のサイクルを回していく開発スタイルを好みます
-- 新しい技術・分野などに抵抗はなく、学習しながらアウトプットをすることが得意です
-- ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
-- フロントエンドの開発が比較的得意ですが、バックエンド、インフラ面への興味もあります
-- ユーザーファーストなプロダクトを作っていく過程が好きです。言われたものをただ作るのではなく、機能要件に対しても一緒に考えていける組織だと良いです
+- 少人数チームで0から1の開発が得意です。
+- 新しい技術・分野などに抵抗はなく、学習しながら実務に取り入れることが得意です。
+- フロントエンドの開発が比較的得意ですが、バックエンドも必要があれば書きます。インフラ面への興味もあります。
+- ユーザーファーストなプロダクトを作ることに興味があります。
