@@ -1,18 +1,18 @@
-# kawamataryoの職務経歴書
+# SotaYamaguchiの職務経歴書
 
-![textlint](https://img.shields.io/github/workflow/status/kawamataryo/resume/lint%20text?label=textlint&logo=github&color=yellow)
-![build pdf](https://img.shields.io/github/workflow/status/kawamataryo/resume/build-pdf?label=build%20pdf&logo=github)
-![create issue](https://img.shields.io/github/workflow/status/kawamataryo/resume/create%20issue?label=create%20issue&logo=github&color=orange)
-![release date](https://img.shields.io/github/release-date/kawamataryo/resume?color=blue&logo=github)
+![textlint](https://img.shields.io/github/workflow/status/SotaYamaguchi/resume/lint%20text?label=textlint&logo=github&color=yellow)
+![build pdf](https://img.shields.io/github/workflow/status/SotaYamaguchi/resume/build-pdf?label=build%20pdf&logo=github)
+![create issue](https://img.shields.io/github/workflow/status/SotaYamaguchi/resume/create%20issue?label=create%20issue&logo=github&color=orange)
+![release date](https://img.shields.io/github/release-date/SotaYamaguchi/resume?color=blue&logo=github)
 
-[ [English](https://github.com/kawamataryo/resume) | 日本語 ]
+[ [English](https://github.com/SotaYamaguchi/resume) | 日本語 ]
 
 ## Data
 
 
-- [GitHub Pages](https://kawamataryo.github.io/resume/)  
-- [PDF](https://github.com/kawamataryo/resume/releases)  
-- [File](https://github.com/kawamataryo/resume/blob/master/docs/README.md)  
+- [GitHub Pages](https://SotaYamaguchi.github.io/resume/)  
+- [PDF](https://github.com/SotaYamaguchi/resume/releases)  
+- [File](https://github.com/SotaYamaguchi/resume/blob/master/docs/README.md)  
 
 ## Features
 
@@ -53,5 +53,5 @@ $ git push origin --tags
 
 GitHub Actionsのschedule triggerで3ヶ月に1回、職務経歴書の内容更新を促すissueが自動生成されます。
 
-期間の変更、Jobの停止は[.github/workflows/create-issue.yml](https://github.com/kawamataryo/resume/blob/master/.github/workflows/create-issue.yml) を編集してください。
+期間の変更、Jobの停止は[.github/workflows/create-issue.yml](https://github.com/SotaYamaguchi/resume/blob/master/.github/workflows/create-issue.yml) を編集してください。
 
