@@ -18,7 +18,7 @@
 - JavaScript / TypeScript + React.js でのフロントエンド開発・設計
 - React Native + expo での iOS アプリ開発・設計
 - レガシーコードからモダンなフロントエンドへのリファクタリング
-- Django でのサーバーサイド開発
+- Django / Laravel / Next.js でのサーバーサイド開発
 
 ---
 
@@ -147,18 +147,7 @@ C# による組み込み系 Windows アプリケーションの開発。
     - コーディング
 - **プロジェクト詳細：**
     - C# 独自フレームワークを使用して Windows アプリの開発
-
-### サーマルエンジニアリング株式会社（2017/09〜2019/09）
-
-C# による組み込み系 Windows アプリケーションの開発。
-
-**電子顕微鏡用クライアント（Windows アプリ）の開発**
-- **プロジェクト規模：**
-    - 平均 3〜4 人チームでの開発
-- **役割：**
-    - コーディング
-- **プロジェクト詳細：**
-    - C# 独自フレームワークを使用して Windows アプリの開発
+	    - 組み込みのアプリケーションに対して開発以外にユニットテスト、システムテスト、カバレッジテストなどを行いました
 
 ### 某金属サイディングメーカー（2012/04〜2017/08）
 
@@ -188,14 +177,17 @@ C# による組み込み系 Windows アプリケーションの開発。
 - **note**
     - 主に月報を記載
     - https://note.com/sota_yamaguchi
+- **qiita**
+	- https://qiita.com/sota_yamaguchi
+- **YouTube**
+	- [【Firebase + Bolt】 勤怠管理用slackbotを作ってみた！](https://www.youtube.com/watch?v=caMnNo26LiE&t=2s)
 
 ### 勉強会での登壇
 
 - **レッドインパルス社内・電通大学生向け勉強会（2019/06）**
-    - 【TODO アプリ作成】Flutter・Firebase でゼロからアプリをつくる
-    - https://ueqareer.net/3056
+    - [【TODO アプリ作成】Flutter・Firebase でゼロからアプリをつくる](https://ueqareer.net/3056)
 - **その他登壇資料** 
-    - https://speakerdeck.com/sotayamaguchi
+    - [Formikを導入してみた話](https://speakerdeck.com/sotayamaguchi)
 
 ### 勉強会の開催
 
