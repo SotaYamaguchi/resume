@@ -73,6 +73,7 @@
 - 参考資料
   - [note - back check の開発組織拡大にスクラムマスターとして向き合った話](https://note.com/sota_yamaguchi/n/nead50f4cb3d1#f5092fff-eab0-4783-95a8-7c226425de24)
   - [note - スクラムマスターの帽子を外すタイミングでチームと改善してきた1年半をふりかえる](https://note.com/sota_yamaguchi/n/n882b206a5c73)
+  - [SpeakerDeck - チームではじめるアジャイルメトリクス](https://speakerdeck.com/sotayamaguchi/timudehazimeruaziyairumetorikusu)
 
 **社内での取り組み**
 
