@@ -1,13 +1,11 @@
----
-
 # 職務経歴書
 
 ## 基本情報
 
 | key         | value                                                        |
 |-------------|--------------------------------------------------------------|
-| 氏名        | 山口 壮太（Yamaguchi Sota）                                  |
-| 生年月日    | 1993/07/09                                                   |
+| 氏名          | 山口 壮太（Yamaguchi Sota）                                        |
+| 生年月日        | 1993/07/09                                                   |
 | Facebook    | [sota.yamaguchi](https://www.facebook.com/sota.yamaguchi.90) |
 | Twitter     | [@Area029S](https://twitter.com/Area029S)                    |
 | note        | [Sota Yamaguchi](https://note.com/sota_yamaguchi)            |
@@ -53,15 +51,28 @@
 **ソフトウェアエンジニアとして**
 
 - 期間: 2021/4~2022/3、2023/4~現在
+- frontend, backend の設計・開発・運用を担当
+- toB向けサービス
+  - Auth0を用いたSAML SSOの実装・運用
+  - その他機能開発
+- toC向けサービス
+  - サーバレス構成のマイクロサービスの構築
+    - [zenn - エンドユーザー向けプロダクトの構築とマイクロサービス化](https://zenn.dev/sota_yamaguchi/articles/6648640b5b2796)
+  - DynamoDBの設計・運用
+    - SingleTableDesign
+- ChatGPTを活用したサービスの検証
 
 **スクラムマスターとして**
 
 - 期間: 2021/10~2023/3
   - 1on1
-  - チームの分割
+  - LeSS を参考にしたチームの分割
   - 全員参加型で行う開発組織のビジョン設定
   - チームのリーン開発についての学習
   - 新規チームへのスクラム→カンバンの適応
+- 参考資料
+  - [note - back check の開発組織拡大にスクラムマスターとして向き合った話](https://note.com/sota_yamaguchi/n/nead50f4cb3d1#f5092fff-eab0-4783-95a8-7c226425de24)
+  - [note - スクラムマスターの帽子を外すタイミングでチームと改善してきた1年半をふりかえる](https://note.com/sota_yamaguchi/n/n882b206a5c73)
 
 **社内での取り組み**
 
@@ -70,6 +81,7 @@
   - 輪読会
   - ワールドカフェ・リーンコーヒーの実施
   - テスト駆動開発ワークショップの実施
+    - [note - 社内で TDD のワークショップを開催しました！](https://note.com/sota_yamaguchi/n/nb78f417eba75)
   - Gatherの導入事例を持つ他社様をお招きしての勉強会
   - 社内向けラジオコンテンツの企画運営
 - RSGT・PHPConference等コミュニティ活動への参加奨励
