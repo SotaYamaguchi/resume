@@ -6,17 +6,18 @@
 |-------------|--------------------------------------------------------------|
 | 氏名          | 山口 壮太（Yamaguchi Sota）                                        |
 | 生年月日        | 1993/07/09                                                   |
+| LinkedIn    | [山口 壮太(ぐっきー)](https://www.linkedin.com/in/sota-yamaguchi/) |
 | Facebook    | [sota.yamaguchi](https://www.facebook.com/sota.yamaguchi.90) |
 | Twitter     | [@Area029S](https://twitter.com/Area029S)                    |
 | note        | [Sota Yamaguchi](https://note.com/sota_yamaguchi)            |
 | zenn        | [@sota_yamaguchi](https://zenn.dev/sota_yamaguchi)           |
 | SpeakerDeck | [sotayamaguchi](https://speakerdeck.com/sotayamaguchi)       |
 
----
+<!-- ---
 
 ## 保有認定資格
 
-- なし
+- なし -->
 
 ---
 
@@ -29,13 +30,27 @@
   - チームとは？
     - **共通の目的や目標**を達成するためにともに働く人々の集団
 - チームとしてアウトカムを追う開発
-- 組織へのアジャイルマインドセットの広がり
 
 ---
 
 ## 職務経歴詳細
 
-### 株式会社ROXX（2021/4~現在）
+### Red Hat 株式会社（2024/4~現在）
+
+- OpenShift Container Platform のコンサルタント
+  - Kubernetes をベースとしたオンプレミス・クラウド両軸における OCP コンテナ基盤の構築・運用支援
+  - Ansible を用いた OCP コンテナ基盤構築の自動化支援
+- OpenShift Virtualization のコンサルタント
+  - KubeVirt をベースとした OCP コンテナ基盤上での仮想化環境の構築・運用支援
+- Agile Development のコンサルタント
+  - XPのプラクティス導入・改善支援
+  - スクラムにおける開発者の伴走型支援
+- エンタープライズ領域の各業界のお客様への支援実績
+  - 金融
+  - 製造業
+  - 情報通信
+
+### 株式会社ROXX（2021/4~2024/3）
 
 **toB向け オンラインリファレンスチェックサービス [back check](https://site.backcheck.jp/) の開発**
 
@@ -172,7 +187,7 @@
     - TypeScript + Next.js での SPA 開発
     - API Route を使用し、Next.js で API を作成
   - スマホアプリ
-    - React Native + expo での開発
+    - React Native での開発
 
 #### 遠隔保育ロボット用の通知受け取りスマホアプリの開発
 
@@ -222,8 +237,8 @@
 - **プロジェクト規模：**
   - 1人
 - **役割：**
-  - VBA で Excel のマクロ作成、導入交渉
+  - VBA で Excel のマクロ作成、導入支援
 - **プロジェクト詳細：**
-  - Excel VBA での在庫日報の開発
+  - 在庫日報の開発
     - 年間で 120 時間の業務時間削減に貢献
     - 社内改善提案コンテストにて A 評価を頂く
